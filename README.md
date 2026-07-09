@@ -18,7 +18,9 @@ The project uses Power Query for data cleaning, a star schema model for analysis
 
 ## Business Context
 
-This project was built using real breeding data purchased from Weatherbys, the official Thoroughbred registry for Britain and Ireland. The original data existed across multiple CSV files and required significant cleaning and modelling before it could be analysed effectively. The goal was to transform the raw breeding records into a practical reporting solution that supports breeding and purchasing decisions.
+This project was built using real breeding data purchased from Weatherbys, the official Thoroughbred registry for Britain and Ireland. 
+The original data was spread across multiple CSV files and required significant cleaning and modelling before it could be analysed effectively. 
+The goal was to transform the raw breeding records into a practical reporting solution that supports breeding and purchasing decisions.
 
 
 ---
@@ -32,7 +34,7 @@ This project was built using real breeding data purchased from Weatherbys, the o
 
 ---
 
-## Dashboard Pages
+## Report Pages
 
 ### Market Overview
 ![Market Overview](Market%20Overview.jpg)
