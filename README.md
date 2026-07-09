@@ -8,11 +8,11 @@ It uses several years of real Thoroughbred breeding data from Weatherbys to help
 
 The report is built around practical business questions, such as:
 
-• Which stallions consistently produce successful foals?
-• Which mares have the strongest breeding history?
-• Which stallion and mare pairings have performed best over time?
-• How has foal success changed across recent breeding seasons?
-• Which breeders and countries contribute the highest breeding volume?
+- Which stallions consistently produce successful foals?
+- Which mares have the strongest breeding history?
+- Which stallion and mare pairings have performed best over time?
+- How has foal success changed across recent breeding seasons?
+- Which breeders and countries contribute the highest breeding volume?
 
 The project uses Power Query for data cleaning, a star schema model for analysis, DAX measures for KPIs, and Power BI report pages designed around breeding and purchasing decisions.
 
@@ -73,14 +73,14 @@ It summarises previous breeding pairings, covering history, live foal outcomes a
 
 ## Key Features
 
-• Multi-page Power BI report
-• Power Query data cleaning and transformation
-• Star schema data modelling
-• DAX KPI measures
-• Stallion, mare and pairing analysis
-• Interactive slicers and filtering
-• Business-focused reporting
-• Professional report design
+- Multi-page Power BI report
+- Power Query data cleaning and transformation
+- Star schema data modelling
+- DAX KPI measures
+- Stallion, mare and pairing analysis
+- Interactive slicers and filtering
+- Business-focused reporting
+- Professional report design
 
 ---
 
